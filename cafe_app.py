@@ -121,4 +121,4 @@ with col2:
 
 # Footer
 st.markdown("---")
-st.caption("Developed by AI CMC Student | Powered by Python & Streamlit")
+st.caption("Developed by Duong from AI CMC Student | Powered by Python & Streamlit")
